@@ -13,11 +13,11 @@
             "name": "that I'm at the search page",
             "result": {
               "status": "passed",
-              "duration": 9797450760
+              "duration": 6970060099
             },
             "line": 5,
             "match": {
-              "location": "/Applications/AMPPS/www/MVT19/lumia-2020-vue/tests/selenium/step-definitions/search.js:5"
+              "location": "C:\\Users\\jitma\\Desktop\\Lumia-5\\lumia-2020-vue\\tests\\selenium\\step-definitions\\search.js:5"
             }
           },
           {
@@ -52,11 +52,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 3691679884
+              "duration": 931884499
             },
             "hidden": true,
             "match": {
-              "location": "/Applications/AMPPS/www/MVT19/lumia-2020-vue/node_modules/selenium-cucumber-js/runtime/world.js:250"
+              "location": "C:\\Users\\jitma\\Desktop\\Lumia-5\\lumia-2020-vue\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -69,6 +69,6 @@
     "line": 1,
     "name": "Search Lumia",
     "tags": [],
-    "uri": "/Applications/AMPPS/www/MVT19/lumia-2020-vue/tests/selenium/features/search.feature"
+    "uri": "C:/Users/jitma/Desktop/Lumia-5/lumia-2020-vue/tests/selenium/features/search.feature"
   }
 ]

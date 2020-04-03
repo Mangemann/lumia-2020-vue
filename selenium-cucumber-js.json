@@ -2,5 +2,5 @@
   "steps": "./tests/selenium/step-definitions",
   "reports": "./tests/selenium/reports",
   "browser": "firefox",
-  "timeout": 10000
+  "timeout": 100000
 }

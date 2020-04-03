@@ -2,10 +2,10 @@
 <testsuites>
     <testsuite name="search-lumia;when-i-enter-text-in-search" tests="4" failures="0" skipped="3">
         <properties>
-            <property name="URI" value="/Applications/AMPPS/www/MVT19/lumia-2020-vue/tests/selenium/features/search.feature">
+            <property name="URI" value="C:/Users/jitma/Desktop/Lumia-5/lumia-2020-vue/tests/selenium/features/search.feature">
             </property>
         </properties>
-        <testcase name="Given that I&apos;m at the search page" classname="search-lumia;when-i-enter-text-in-search" time="9.79745076">
+        <testcase name="Given that I&apos;m at the search page" classname="search-lumia;when-i-enter-text-in-search" time="6.970060099">
         </testcase>
         <testcase name="When I enter search text &quot;taklampa&quot;" classname="search-lumia;when-i-enter-text-in-search">
             <skipped message="">
