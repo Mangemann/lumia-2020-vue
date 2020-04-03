@@ -20,7 +20,7 @@ describe('Home', () => {
   test('products all have a name and a cost property', ()=>{
     for(let product of component.vm.products){
       expect(product).toHaveProperty('name')
-      expect(product).toHaveProperty('costssss')
+      expect(product).toHaveProperty('costss')
     }
   })
 
