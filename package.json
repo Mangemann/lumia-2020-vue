@@ -14,7 +14,7 @@
     "core-js": "^3.6.4",
     "selenium-cucumber-js": "^1.7.0",
     "selenium-webdriver": "^4.0.0-alpha.7",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-router": "^3.1.5"
   },
   "devDependencies": {
